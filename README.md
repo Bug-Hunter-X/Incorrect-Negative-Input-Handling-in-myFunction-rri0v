@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a bug in its negative input handling.  The `myFunction` initially incorrectly returns -1 when given a negative input. The solution file provides the corrected implementation.
